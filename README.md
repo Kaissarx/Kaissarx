@@ -1,3 +1,18 @@
+
+###
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kaissarx/Kaissarx/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kaissarx/Kaissarx/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kaissarx/Kaissarx/output/pacman-contribution-graph.svg">
+</picture>
+
+
+###
+
+
+
 <h1 align="center">Hi 👋 I'm Mohamed Abdelrazek Mady</h1>
 <h3 align="center">Junior MERN Stack Developer | JavaScript Specialist</h3>
 
@@ -79,23 +94,6 @@ Git • GitHub • VS Code • Cursor • Jest • Vercel • Agile
 - Improved perceived load speed by 20%  
 
 🔗 Live: https://schair.vercel.app/
-
-
-
-###
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kaissarx/Kaissarx/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kaissarx/Kaissarx/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kaissarx/Kaissarx/output/pacman-contribution-graph.svg">
-</picture>
-
-
-###
-
-
-###
 
 
 
