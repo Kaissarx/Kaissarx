@@ -25,6 +25,7 @@ Focus on writing clean, reusable, and maintainable code while continuously expan
 </p>
 
 React.js • Vue.js • JavaScript (ES6+) • HTML5 • CSS3 • Bootstrap • Tailwind CSS • Responsive Design
+
 ---
 
 ### ⚙ Backend
