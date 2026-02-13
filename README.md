@@ -1,53 +1,71 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hi 👋 I'm Mohamed Abdelrazek Mady</h1>
+<h3 align="center">Junior MERN Stack Developer | JavaScript Specialist</h3>
 
-###
+<p align="center">
+  💻 Building Scalable Web Applications <br/>
+  🚀 Passionate about Performance & Clean Code <br/>
+  🌍 Open to Remote Opportunities
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</div>
+---
 
-###
+## 👨‍💻 About Me
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="60" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
-</div>
+I am a Junior MERN Stack Developer with strong experience in JavaScript (ES6+) and modern frontend frameworks.
 
-###
+During my internship at Information Technology Institute (ITI), I improved application performance by 20–25%, optimized UI components, and collaborated on REST API integrations to build scalable, user-focused applications.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaissarx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaissarx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Kaissarx&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Kaissarx&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaissarx&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+I focus on writing clean, reusable, and maintainable code while continuously expanding my backend and full-stack skills.
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kaissarx/Kaissarx/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kaissarx/Kaissarx/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kaissarx/Kaissarx/output/pacman-contribution-graph.svg">
-</picture>
+## 🛠 Tech Stack
 
-###
+### Frontend
+React.js • Vue.js • JavaScript • HTML5 • CSS3 • Bootstrap • Responsive Design
+
+### Backend
+Node.js • Express.js • REST APIs
+
+### Database
+MongoDB • Database Design
+
+### Tools
+Git • GitHub • VS Code • Cursor • Jest • Vercel • Agile
+
+---
+
+## 🚀 Featured Projects
+
+### 🏥 Say Help – Doctor Appointment Booking System
+- Built with Vue.js & REST APIs  
+- Reduced submission errors by 30% through improved validation  
+- Designed modular, scalable components  
+
+🔗 Live: https://say-help.vercel.app/
+
+---
+
+### 🛒 Schair – E-Commerce Interface
+- Multi-page Vue.js application  
+- Reusable product & cart components  
+- Improved perceived load speed by 20%  
+
+🔗 Live: https://schair.vercel.app/
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PUT_YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PUT_YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+📧 mohamedmady117@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/mohamed-abdelrazek-mady/  
+🌐 Portfolio: https://mohamed-abdelrazek.vercel.app/
