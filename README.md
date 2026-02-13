@@ -55,6 +55,7 @@ MongoDB • Database Design
 </p>
 
 Git • GitHub • VS Code • Cursor • Jest • Vercel • Agile
+
 ---
 
 ## 🚀 Featured Projects
