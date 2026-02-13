@@ -51,6 +51,8 @@ Git • GitHub • VS Code • Cursor • Jest • Vercel • Agile
 🔗 Live: https://schair.vercel.app/
 
 
+<p align="left">Hello World!!</p>
+
 ###
 
 <picture>
@@ -58,6 +60,10 @@ Git • GitHub • VS Code • Cursor • Jest • Vercel • Agile
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kaissarx/Kaissarx/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kaissarx/Kaissarx/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<p align="left">Hello World!!</p>
 
 ###
 
