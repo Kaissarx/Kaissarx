@@ -20,6 +20,9 @@ Focus on writing clean, reusable, and maintainable code while continuously expan
 
 ### Frontend
 React.js • Vue.js • JavaScript • HTML5 • CSS3 • Bootstrap • Responsive Design
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vue,js,html,css,bootstrap" />
+</p>
 
 ### Backend
 Node.js • Express.js • REST APIs
