@@ -18,21 +18,42 @@ Focus on writing clean, reusable, and maintainable code while continuously expan
 
 ## 🛠 Tech Stack
 
-### Frontend
-React.js • Vue.js • JavaScript • HTML5 • CSS3 • Bootstrap • Responsive Design
+### 🚀 Frontend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vue,js,html,css,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,vue,js,html,css,bootstrap,tailwind" />
 </p>
 
-### Backend
+React.js • Vue.js • JavaScript (ES6+) • HTML5 • CSS3 • Bootstrap • Tailwind CSS • Responsive Design
+---
+
+### ⚙ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
 Node.js • Express.js • REST APIs
 
-### Database
+---
+
+### 🗄 Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
 MongoDB • Database Design
 
-### Tools
-Git • GitHub • VS Code • Cursor • Jest • Vercel • Agile
+---
 
+### 🧪 Tools & Workflow
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jest" />
+</p>
+
+Git • GitHub • VS Code • Cursor • Jest • Vercel • Agile
 ---
 
 ## 🚀 Featured Projects
