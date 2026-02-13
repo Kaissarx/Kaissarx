@@ -12,10 +12,7 @@
 ## 👨‍💻 About Me
 
 I am a Junior MERN Stack Developer with strong experience in JavaScript (ES6+) and modern frontend frameworks.
-
-During my internship at Information Technology Institute (ITI), I improved application performance by 20–25%, optimized UI components, and collaborated on REST API integrations to build scalable, user-focused applications.
-
-I focus on writing clean, reusable, and maintainable code while continuously expanding my backend and full-stack skills.
+Focus on writing clean, reusable, and maintainable code while continuously expanding my backend and full-stack skills.
 
 ---
 
@@ -54,10 +51,6 @@ Git • GitHub • VS Code • Cursor • Jest • Vercel • Agile
 🔗 Live: https://schair.vercel.app/
 
 ---
-
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kaissarx/Kaissarx/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kaissarx/Kaissarx/output/pacman-contribution-graph.svg">
