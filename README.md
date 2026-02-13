@@ -9,6 +9,10 @@
 
 ---
 
+<img align="right" alt="Mohamed Abdelrazek" width="280" src="repo1.png" />
+
+
+
 ## 👨‍💻 About Me
 
 I am a Junior MERN Stack Developer with strong experience in JavaScript (ES6+) and modern frontend frameworks.
