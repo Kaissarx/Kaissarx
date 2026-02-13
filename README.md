@@ -9,7 +9,7 @@
 
 ---
 
-<img align="right" alt="Mohamed Abdelrazek" width="180" src="repo1.png" />
+<img align="right" alt="Mohamed Abdelrazek" width="280" src="repo1.png" />
 
 
 
