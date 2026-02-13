@@ -50,7 +50,7 @@ Git • GitHub • VS Code • Cursor • Jest • Vercel • Agile
 
 🔗 Live: https://schair.vercel.app/
 
----
+
 ###
 
 <picture>
@@ -61,7 +61,7 @@ Git • GitHub • VS Code • Cursor • Jest • Vercel • Agile
 
 ###
 
----
+
 
 ## 📫 Connect With Me
 
